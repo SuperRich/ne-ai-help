@@ -24,7 +24,7 @@ A short "answer sheet" plus an AI assistant that drafts replies for you to check
 - Keep prices in the sheet up to date.
 
 ### Next step up
-Once this works, the same answer sheet can be connected to your inbox so drafts appear automatically. That's the kind of thing we can look at on a £25 intro call.
+Once this works, the same answer sheet can become a small email add-on that drafts replies automatically, for you to approve. That's the kind of small custom tool I build: a £25 intro call, a short spec, then a fixed-price build (typically from £150).
 
 Reply to this email or visit the site to book: https://superrich.github.io/ne-ai-help/
 

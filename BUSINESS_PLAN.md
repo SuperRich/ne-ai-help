@@ -1,25 +1,36 @@
 # NE AI Help – business plan
 
 ## Niche
-Small businesses in the North East (trades, independent shops, salons, small offices) who lose hours each week to quotes, bookings, invoices and email. Remote UK clients welcome.
+Custom small-business tools and AI helpers (small web apps, scripts, Google Sheets and email add-ons), built quickly with AI coding agents (e.g. Claude Code, Codex) from a clear spec written by Rich.
+
+**Target customers:** trades, shops, salons, hospitality and similar small businesses in the North East; remote UK welcome.
+**Excluded:** no insurance-sector clients or work (no insurers, brokers or claims).
 
 ## Offer and pricing
-- **£25, 30-minute intro call** with a short written summary of 2–3 automation suggestions.
-- **Implementation:** fixed-price quotes per automation after the call (indicative starting point to be set by Rich).
-- **Optional later:** monthly support/maintenance retainer.
+1. **£25, 30-minute intro call.**
+2. **Short spec** of the tool in plain English.
+3. **Fixed-price build**, typically from £150 depending on scope.
+4. **Handover** with setup and a walkthrough.
+Optional later: small paid changes or support.
+
+## Capacity
+Evenings only; about one build a month. Be upfront about start dates.
+
+## Example builds
+Quote builder, booking reminders, invoice chaser, enquiry reply drafts (AI helper), review follow-up.
 
 ## How leads will be found
 1. This site plus a monthly newsletter (email capture on the site).
-2. Local directories and Google Business Profile for "AI automation Newcastle".
-3. Local business groups and networking (e.g. North East chambers, Facebook/LinkedIn community groups) – posting only by Rich.
-4. Short, useful posts on LinkedIn/X sharing newsletter ideas.
-5. Referrals from intro-call clients.
+2. Google Business Profile and local directories.
+3. Local business groups and networking – posting only by Rich.
+4. Short, useful LinkedIn/X posts based on newsletter ideas.
+5. Referrals from past builds.
 
 ## First 30 days
-- **Week 1:** Site live; confirm form endpoint; set up a simple lead tracker (spreadsheet); publish issue 1.
-- **Week 2:** Create Google Business Profile; list 30 local target businesses by sector; draft a polite intro email template for Rich to approve.
-- **Week 3:** Rich shares the site in 2–3 local groups; publish issue 2; add a payment link (e.g. Stripe/PayPal) for the £25 call.
-- **Week 4:** Review enquiries and calls; write one anonymised example write-up (only with permission); adjust pricing and examples.
+- **Week 1:** Site live; confirm form endpoint; simple lead tracker; publish issue 1.
+- **Week 2:** Google Business Profile; list 30 target businesses (trades, shops, salons, hospitality; no insurance); draft an intro email template for Rich to approve.
+- **Week 3:** Rich shares the site in 2–3 local groups; issue 2; add a payment link for the £25 call.
+- **Week 4:** Review calls; deliver first build if booked; with permission, write an anonymised example; adjust pricing.
 
-## Success measures (first 30 days)
-- Newsletter sign-ups, enquiries and booked calls, tracked weekly. No targets assumed yet.
+## Success measures
+Sign-ups, enquiries, calls and builds, tracked weekly. No targets assumed yet; capacity caps builds at about one a month.
